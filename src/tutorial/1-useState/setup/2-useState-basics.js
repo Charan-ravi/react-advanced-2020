@@ -1,7 +1,11 @@
 import React, { useState } from "react";
 //useState - function
 
-//
+//general use of hooks 
+//component name must be in uppercase
+//must be in function/component body
+//cannot call conditionally
+
 const UseStateBasics = () => {
   // console.log(useState('hey'));
   // const val = useState(1)[0];
